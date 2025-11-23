@@ -2,7 +2,7 @@ opencv-python
 mediapipe
 pyautogui
 numpy
-Optional Notes:
+
 If you want to fix versions to ensure compatibility, you can use something like:
 
 ini
